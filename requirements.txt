@@ -1,0 +1,7 @@
+torch==0.4
+pprint
+json
+tensorflow-gpu
+tensorflow==1.5.0
+tensorboardX
+tensorboard
